@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Isabella Duan</title>
+    <link>https://github.com/isaduan/isabelladuan.github.io.git/tags/</link>
+    <description>Recent content in Tags on Isabella Duan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 03 Dec 2022 17:08:10 +0000</lastBuildDate><atom:link href="https://github.com/isaduan/isabelladuan.github.io.git/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI safety</title>
+      <link>https://github.com/isaduan/isabelladuan.github.io.git/tags/ai-safety/</link>
+      <pubDate>Sat, 03 Dec 2022 17:08:10 +0000</pubDate>
+      
+      <guid>https://github.com/isaduan/isabelladuan.github.io.git/tags/ai-safety/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>model evaluation</title>
+      <link>https://github.com/isaduan/isabelladuan.github.io.git/tags/model-evaluation/</link>
+      <pubDate>Sat, 03 Dec 2022 17:08:10 +0000</pubDate>
+      
+      <guid>https://github.com/isaduan/isabelladuan.github.io.git/tags/model-evaluation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

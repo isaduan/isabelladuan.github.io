@@ -1,7 +1,9 @@
-baseURL: "https://localhost/"
+baseURL: "http://localhost/"
 languageCode: en-us
 title: Isabella Duan
 theme: PaperMod
+
+enableEmoji: true
 
 menu:
   main:
@@ -13,6 +15,10 @@ menu:
       name: Archives
       url: /archives/
       weight: 30
+    - identifiers: search
+      name: Search
+      url: /search/
+      weight: 40
 
 params:
     assets:
@@ -28,3 +34,9 @@ params:
           url: "https://twitter.com/IsabellaDuan"
         - name: linkedin
           url: "https://www.linkedin.com/in/isabella-duan-43021b163/"
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary

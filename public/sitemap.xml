@@ -2,28 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://isaduan.github.io/isabelladuan.github.io/tags/ai-safety/</loc>
+    <loc>http://localhost/tags/ai-safety/</loc>
     <lastmod>2022-12-03T17:08:10+00:00</lastmod>
   </url><url>
-    <loc>https://isaduan.github.io/isabelladuan.github.io/</loc>
+    <loc>http://localhost/</loc>
     <lastmod>2022-12-03T17:08:10+00:00</lastmod>
   </url><url>
-    <loc>https://isaduan.github.io/isabelladuan.github.io/tags/model-evaluation/</loc>
+    <loc>http://localhost/tags/model-evaluation/</loc>
     <lastmod>2022-12-03T17:08:10+00:00</lastmod>
   </url><url>
-    <loc>https://isaduan.github.io/isabelladuan.github.io/posts/</loc>
+    <loc>http://localhost/posts/</loc>
     <lastmod>2022-12-03T17:08:10+00:00</lastmod>
   </url><url>
-    <loc>https://isaduan.github.io/isabelladuan.github.io/posts/first/</loc>
+    <loc>http://localhost/posts/first/</loc>
     <lastmod>2022-12-03T17:08:10+00:00</lastmod>
   </url><url>
-    <loc>https://isaduan.github.io/isabelladuan.github.io/tags/</loc>
+    <loc>http://localhost/tags/</loc>
     <lastmod>2022-12-03T17:08:10+00:00</lastmod>
   </url><url>
-    <loc>https://isaduan.github.io/isabelladuan.github.io/archives/</loc>
+    <loc>http://localhost/archives/</loc>
   </url><url>
-    <loc>https://isaduan.github.io/isabelladuan.github.io/categories/</loc>
+    <loc>http://localhost/categories/</loc>
   </url><url>
-    <loc>https://isaduan.github.io/isabelladuan.github.io/search/</loc>
+    <loc>http://localhost/search/</loc>
   </url>
 </urlset>
